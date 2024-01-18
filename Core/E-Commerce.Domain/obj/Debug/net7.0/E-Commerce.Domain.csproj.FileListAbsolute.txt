@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\C#-project\E-CommerceApi-OnionCQRS\Core\E-Commerce.Domain\bin\Debug\net7.0\E-Commerce.Domain.deps.json
+C:\Users\user\Desktop\C#-project\E-CommerceApi-OnionCQRS\Core\E-Commerce.Domain\bin\Debug\net7.0\E-Commerce.Domain.dll
+C:\Users\user\Desktop\C#-project\E-CommerceApi-OnionCQRS\Core\E-Commerce.Domain\bin\Debug\net7.0\E-Commerce.Domain.pdb
+C:\Users\user\Desktop\C#-project\E-CommerceApi-OnionCQRS\Core\E-Commerce.Domain\obj\Debug\net7.0\E-Commerce.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\C#-project\E-CommerceApi-OnionCQRS\Core\E-Commerce.Domain\obj\Debug\net7.0\E-Commerce.Domain.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C#-project\E-CommerceApi-OnionCQRS\Core\E-Commerce.Domain\obj\Debug\net7.0\E-Commerce.Domain.AssemblyInfo.cs
+C:\Users\user\Desktop\C#-project\E-CommerceApi-OnionCQRS\Core\E-Commerce.Domain\obj\Debug\net7.0\E-Commerce.Domain.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#-project\E-CommerceApi-OnionCQRS\Core\E-Commerce.Domain\obj\Debug\net7.0\E-Commerce.Domain.dll
+C:\Users\user\Desktop\C#-project\E-CommerceApi-OnionCQRS\Core\E-Commerce.Domain\obj\Debug\net7.0\refint\E-Commerce.Domain.dll
+C:\Users\user\Desktop\C#-project\E-CommerceApi-OnionCQRS\Core\E-Commerce.Domain\obj\Debug\net7.0\E-Commerce.Domain.pdb
+C:\Users\user\Desktop\C#-project\E-CommerceApi-OnionCQRS\Core\E-Commerce.Domain\obj\Debug\net7.0\ref\E-Commerce.Domain.dll

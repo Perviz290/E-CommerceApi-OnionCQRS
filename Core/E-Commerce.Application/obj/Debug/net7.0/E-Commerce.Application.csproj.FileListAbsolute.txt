@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\C#-project\E-CommerceApi-OnionCQRS\Core\E-Commerce.Application\bin\Debug\net7.0\E-Commerce.Application.deps.json
+C:\Users\user\Desktop\C#-project\E-CommerceApi-OnionCQRS\Core\E-Commerce.Application\bin\Debug\net7.0\E-Commerce.Application.dll
+C:\Users\user\Desktop\C#-project\E-CommerceApi-OnionCQRS\Core\E-Commerce.Application\bin\Debug\net7.0\E-Commerce.Application.pdb
+C:\Users\user\Desktop\C#-project\E-CommerceApi-OnionCQRS\Core\E-Commerce.Application\obj\Debug\net7.0\E-Commerce.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\C#-project\E-CommerceApi-OnionCQRS\Core\E-Commerce.Application\obj\Debug\net7.0\E-Commerce.Application.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C#-project\E-CommerceApi-OnionCQRS\Core\E-Commerce.Application\obj\Debug\net7.0\E-Commerce.Application.AssemblyInfo.cs
+C:\Users\user\Desktop\C#-project\E-CommerceApi-OnionCQRS\Core\E-Commerce.Application\obj\Debug\net7.0\E-Commerce.Application.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#-project\E-CommerceApi-OnionCQRS\Core\E-Commerce.Application\obj\Debug\net7.0\E-Commerce.Application.dll
+C:\Users\user\Desktop\C#-project\E-CommerceApi-OnionCQRS\Core\E-Commerce.Application\obj\Debug\net7.0\refint\E-Commerce.Application.dll
+C:\Users\user\Desktop\C#-project\E-CommerceApi-OnionCQRS\Core\E-Commerce.Application\obj\Debug\net7.0\E-Commerce.Application.pdb
+C:\Users\user\Desktop\C#-project\E-CommerceApi-OnionCQRS\Core\E-Commerce.Application\obj\Debug\net7.0\ref\E-Commerce.Application.dll
+C:\Users\user\Desktop\C#-project\E-CommerceApi-OnionCQRS\Core\E-Commerce.Application\bin\Debug\net7.0\E-Commerce.Domain.dll
+C:\Users\user\Desktop\C#-project\E-CommerceApi-OnionCQRS\Core\E-Commerce.Application\bin\Debug\net7.0\E-Commerce.Domain.pdb
+C:\Users\user\Desktop\C#-project\E-CommerceApi-OnionCQRS\Core\E-Commerce.Application\obj\Debug\net7.0\E-Commerce.Application.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C#-project\E-CommerceApi-OnionCQRS\Core\E-Commerce.Application\obj\Debug\net7.0\E-Commerce.Application.csproj.CopyComplete
